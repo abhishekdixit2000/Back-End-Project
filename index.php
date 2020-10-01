@@ -6,7 +6,7 @@
                 <div class="col-lg-6">
                     <div class="banner_text">
                         <div class="banner_text_iner">
-                            <h5>EVENTS &amp; AR PRODUCTS</h5>
+                            <h5>EVENTS &amp; AR PRODUCTS</h5>  <!-- The website focuses on Event organizing and AR Products-->
                             <h1>LATEST EVENTS</h1>
                             <p>Lorem ipsum dolor sit amet consectetur adipiscing elit sed do eiusmod tempor
                                 incididunt ut labore et dolore magna aliqua.</p>
